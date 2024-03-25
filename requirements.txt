@@ -2,3 +2,4 @@ requests
 colorama
 pyfiglet
 pyperclip
+pyperclip3==0.4.1

@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Temp-SMS-Receive 👋</h1>
+<h1 align="center">Welcome to trkn-tmpsms 👋</h1>
 <h2 align="center">A Program Which Allows You To Receive Temp SMS</h2>
 <h3 align="center">API Extracted From <a href='https://play.google.com/store/apps/details?id=com.tempnumber.Temp_Number.Temp_Number' target='_blank'>Temp Number APP</a></h2>
 <p align="center">
